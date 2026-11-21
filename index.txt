@@ -1,1 +1,1 @@
-updated_by_vikram_index.txt files
+delete files which suffix is .txt
